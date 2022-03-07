@@ -1,11 +1,13 @@
 # Big Blue Button Playback-Speed - Chrome-Extension
 
-Lecture recordings at University of Applied Science Munich get uploaded to a Big Blue Button (BBB) server.
+This is just a minor modification of @haerrel's project to make it work on the University of the Witwatersrand BBB server
+
+Lecture recordings at Wits get uploaded to a Big Blue Button (BBB) server.
 * The BBB integrated video player does not offer playback speed adjustments
 * Although HTML5 video capabilities are used, there is some sort of overlay, which gives existing HTML5-video Chrome-Extensions a hard time
 * *(maybe all the previous points are totally made up and I needed of a excuse to build a chrome extension 🤔)*
   
-⚠❌ **this chrome extension only works for pages served by bbb.cs.hm.edu** ⚠❌
+⚠❌ **this chrome extension only works for pages served by scaler.bbbcluster.wits.ac.za** ⚠❌
   
 ## Solution
 
